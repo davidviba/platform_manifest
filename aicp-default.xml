@@ -80,4 +80,8 @@
 
   <!-- Omni additions -->
   <project path="packages/apps/Phonograph" name="omnirom/android_packages_apps_Phonograph" remote="omni" />
+ 
+  <!-- Face Unlock -->
+  <project name="PixelExperience/external_motorola_faceunlock" path="external/motorola/faceunlock" remote="github" revision="ten" />
+
 </manifest>
